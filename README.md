@@ -39,9 +39,6 @@ collaborative editing use cases or whenever there is a need for
 conflict-free resolution of changes.
 
 > Zefyr editor uses Quill.js **Delta** as underlying data format. Read
-> more about Zefyr and Deltas in our [documentation](doc/concepts/data-and-document.md).
+> more about Zefyr and Deltas in our [documentation].
 > Make sure to checkout [official documentation][delta] for Delta format
 > as well.
-
-[delta]: https://quilljs.com/docs/delta/
-[ot]: https://en.wikipedia.org/wiki/Operational_transformation
