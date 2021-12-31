@@ -1,7 +1,7 @@
 # About Zefyr
 
-[![Build Status](https://travis-ci.com/memspace/zefyr.svg?branch=master)] 
-[![codecov](https://codecov.io/gh/memspace/zefyr/branch/master/graph/badge.svg)]
+![Build Status](https://travis-ci.com/memspace/zefyr.svg?branch=master)
+![codecov](https://codecov.io/gh/memspace/zefyr/branch/master/graph/badge.svg)
 
 *Soft and gentle rich text editing for Flutter applications.*
 
