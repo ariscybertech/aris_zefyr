@@ -1,6 +1,7 @@
 # About Zefyr
 
-[![Build Status](https://travis-ci.com/memspace/zefyr.svg?branch=master)](https://travis-ci.com/memspace/zefyr) [![codecov](https://codecov.io/gh/memspace/zefyr/branch/master/graph/badge.svg)](https://codecov.io/gh/memspace/zefyr)
+[![Build Status](https://travis-ci.com/memspace/zefyr.svg?branch=master)] 
+[![codecov](https://codecov.io/gh/memspace/zefyr/branch/master/graph/badge.svg)]
 
 *Soft and gentle rich text editing for Flutter applications.*
 
@@ -8,9 +9,6 @@ Zefyr is currently in **early preview**. If you have a feature
 request or found a bug, please file it at the [issue tracker][].
 
 For questions and general discussions check out our
-[Spectrum community](https://spectrum.chat/zefyr).
-
-[issue tracker]: https://github.com/memspace/zefyr/issues
 
 ## Clean and modern look
 
